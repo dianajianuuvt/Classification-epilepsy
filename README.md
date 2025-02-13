@@ -1,4 +1,4 @@
-Epileptic Seizure Prediction
+# Epileptic Seizure Prediction
 
 This project uses machine learning to predict whether a person is having an epileptic seizure based on EEG data. It does this by classifying signals into two categories: healthy and epileptic
 
