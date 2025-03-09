@@ -36,7 +36,7 @@ How to Use
 ## Schedule
 
 - Week 1: Research possible conferences for submission + edit the introduction part// SYNASC conference - done
-- Week 2: Edit the state-of-the-art part. Search for more appers about multiple sclerosis. Talk with advisor about possible conferences for submission.// Started applying ML models on MS dataset (simple ann) - done
+- Week 2: Edit the state-of-the-art part. Search for more appers about multiple sclerosis. Talk with advisor about possible conferences for submission.// Started applying ML models on MS dataset (simple ann, MLPclassifier) + kNN on both datasets; start putting what i have in conference template - done
 - Week 3: Add relevant papers about MS, trim down papers about epilepsy from SOTA. More research conferences if necessary.
 - Week 4: Look at the results I already have on the epilepsy dataset. Twitch the codes where needed, quantify all the results in one place.
 - Week 5: Try a new model for the epilepsy dataset. Write some comparasions on the reulsts I have.
